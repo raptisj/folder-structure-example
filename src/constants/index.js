@@ -1,0 +1,1 @@
+// Constants to use for the whole application
